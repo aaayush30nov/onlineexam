@@ -1,0 +1,94 @@
+body
+{
+	margin:0px;
+}
+#container
+{
+	
+	width:980px; 
+	margin:auto;/*same space from both sides*/
+	
+}
+#header
+{	
+
+	height:105px;
+	background:#055e63e0;	
+
+}
+#on
+{
+	color:white;
+
+}
+#menu
+{
+	height:45px;
+	background:#084145;  /*#000a04*/
+
+}
+ul
+{
+		margin:0px;
+		padding:0px;
+
+}
+ul li   /*To display list in single row   */
+{
+	display:inline;
+	
+}
+
+ul li a   /*to remove underline*/
+{	
+
+	text-decoration:none;
+	float:left;
+	padding:13px 20px;
+	color:white;
+	background-color:#084145;
+	border-right:1.30px solid white;
+	
+	
+	
+	
+}
+ul li a:hover
+{
+	text-decoration: underline;
+	background-color:#0d2426;
+}
+
+
+#slider
+{
+	height:140px;
+	background:white;
+	
+}
+#main   
+{
+	min-height:350px;
+	background:#61a1a5d4;   /*#61a1a5   #ffff*/
+	/*display:inline-block;*/	/*To remove the gap between two divsion */
+	/*width:980px; */
+	
+}
+#ha
+{
+	margin:0px;
+	padding:0px;
+	/*display:inline;*/
+	
+	
+}
+#footer
+{
+	height:250px;
+	background:#055e63e0;
+	color:#fff;
+
+}
+
+	
+	
